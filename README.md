@@ -1,3 +1,4 @@
+![5th Technovation Hackathon](https://user-images.githubusercontent.com/84763877/215342452-2b27740e-3572-4580-9d52-aeb602e2c2e0.png)
 
 # Real-Time Noise Detection and Surveillance Using IOT
 [Full Documentation Here](https://docs.google.com/document/d/1bdQxrL0_APuMbPXQ5jXu5OTM5P-UKa5MmA3lAYiRPXU/edit?usp=share_link)
@@ -10,7 +11,7 @@ The noise levels near many hospitals — which are silence zones in major cities
 Therefore, these cases present a huge scope in developing a device that could monitor noise levels in real-time and can trigger location co-ordinates in case of violation of decibel-levels.
 
 ### Hardware Requirements
-- NodeMCU ESP8266 12 E microcontroller
+- NodeMCU ESP8266 12E microcontroller
 - LM393 Sound Sensor Module
 - 0.96 I2C OLED Display
 - A9G GSM+ GPRS+GPS Module
