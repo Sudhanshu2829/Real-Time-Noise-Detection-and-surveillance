@@ -22,5 +22,7 @@ Therefore, these cases present a huge scope in developing a device that could mo
 - Arduino IDE
 - Arduino IOT Cloud
 
+### Proposed Model
+
 ### Project By
 - Sudhanshu Kumar (Team @non_IOT)
