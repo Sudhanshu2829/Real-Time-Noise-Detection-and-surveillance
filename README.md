@@ -23,6 +23,7 @@ Therefore, these cases present a huge scope in developing a device that could mo
 - Arduino IOT Cloud
 
 ### Proposed Model
+![IMG_20230129_224049](https://user-images.githubusercontent.com/84763877/215343634-4fbe7285-9dc5-4423-95ca-93d88620e817.jpg)
 
 ### Project By
 - Sudhanshu Kumar (Team @non_IOT)
