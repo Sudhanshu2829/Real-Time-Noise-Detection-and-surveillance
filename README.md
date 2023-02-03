@@ -1,7 +1,7 @@
 ![5th Technovation Hackathon](https://user-images.githubusercontent.com/84763877/215342452-2b27740e-3572-4580-9d52-aeb602e2c2e0.png)
 
 # Real-Time Noise Detection and Surveillance Using IOT
-[Full Documentation Here](https://docs.google.com/document/d/1bdQxrL0_APuMbPXQ5jXu5OTM5P-UKa5MmA3lAYiRPXU/edit?usp=share_link)
+[Full Documentation Here](https://docs.google.com/presentation/d/1sWy8XCH6dx2aT2SicEIAS7OMb71tQfdd/edit?usp=sharing&ouid=108147978853412291034&rtpof=true&sd=true)
 
 # Problem Statement
 
